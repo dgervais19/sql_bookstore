@@ -34,3 +34,27 @@ A database is in Third Normal Form when:
 * You cannot have a a non key column that depends on a foreign key in the table.
 
 
+
+## Using SQL as a Tester
+
+* Getting data for testing
+* Saving data, generated during testing activity
+* Data verifications in databases
+	- Find data,
+	- To ensure data intergrity
+	- To manipulate test data for specific tests
+* Testing Databases
+
+
+## Using SQL as a DevOps Engineer
+
+* Environments will need databases
+
+* You'll actively look over the Database
+
+* Data verifications in databases
+	- Find data,
+	- To ensure data integrity
+	- To manipulate test data for specific tests.
+
+* Testing Databases
