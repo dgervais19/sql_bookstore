@@ -34,5 +34,4 @@ CREATE TABLE booking (
     date_purchased DATE,
     price DECIMAL(5,2)
 );
-
 `
