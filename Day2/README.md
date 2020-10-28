@@ -58,3 +58,13 @@ A database is in Third Normal Form when:
 	- To manipulate test data for specific tests.
 
 * Testing Databases
+
+## Using SQL as a PMO/BA
+
+* system teams will use databases
+* To analyse data, you will need to be able to retrieve it
+* You can build small databases to support prototyping, analysis, data management and reporting.
+* It can allow you to help during the test phase
+* Helps you understand the data flow, data warehouse and analytical products
+
+
